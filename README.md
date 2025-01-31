@@ -23,20 +23,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esta é uma produção de um e-book de 4 pequenas páginas que ajudam você a incluir o veganismo no dia-a-dia de forma fácil e descomplicada.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
+Ferramenta Libre Office para edição. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para revisão da pesquisa sobre dicas simples sobre refeições veganas, utilizei o "ChatGPT". Para geração de imagens personalizadas e com conceitos, foi utilizado o "Leonardo AI". E Para concluir a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O presente e-book resume um conteúdo prático para uma consulta rápida que está a mão, como um imã de geladeira para uma alimentação balanceada de forma prática.
+
+LINK PARA O E-BOOK AQUI
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar este e-book foi uma experiência desafiadora para selecionar as melhores dicas e com o apoio das IAs pude refinar e aprimorar o produto de forma mais eficaz.
 
 ### Exemplos e Insigths
 
